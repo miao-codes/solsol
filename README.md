@@ -44,12 +44,9 @@
     - 값타입
     
     - 참조타입
-    
-    # 저장소(위지) 종류 : storage, memory
-    
-    # 배열
-    
-     # 구조체
+        - 저장소(위지) 종류 : storage, memory
+        - 배열
+        - 구조체
     
 - 매핑(Mapping)
 - Operators involving LValues
